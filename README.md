@@ -1,7 +1,6 @@
 # Exercícios em Java
 
-### Repositório criado para armazenar os exercícios realizados durante a aula de Programação Orienta a Objetos
-![ícone java](https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png)
+Repositório criado para armazenar os exercícios realizados durante a aula de **Programação Orienta a Objetos**
 
 - [ x ] aula 1: Introdução Java
 - [ x ] aula 2: Métodos
@@ -20,3 +19,4 @@
 - [  ] aula 15: Revisão 
 
 
+👩🏻‍💻[Tauany Bueno](https://github.com/tauanybueno)
